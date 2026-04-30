@@ -1,5 +1,33 @@
 # AvökatFinder Slovakia
-> English-speaking law firm directory for Slovakia
+> The English-language directory of lawyers and law firms in Slovakia for expats, foreign nationals and international businesses.
 
-Directory: https://slovakia.avokatfinder.com
-Email: info@avokatfinder.com
+## Main Pages
+- https://slovakia.avokatfinder.com/: Home — find an English-speaking lawyer in Slovakia
+- https://slovakia.avokatfinder.com/lawyers/: Directory of verified law firms and lawyers in Slovakia
+- https://slovakia.avokatfinder.com/glossary/: Legal glossary — plain-English definitions of Slovakia legal terms
+- https://slovakia.avokatfinder.com/blog/: Expat legal guides and property law articles for Slovakia
+- https://slovakia.avokatfinder.com/about/: About AvökatFinder Slovakia
+- https://slovakia.avokatfinder.com/contact/: Contact us
+
+## Legal Glossary Terms
+- https://slovakia.avokatfinder.com/glossary/Vecne-byrta/
+- https://slovakia.avokatfinder.com/glossary/Vecny-ucel-vlastnictva/
+- https://slovakia.avokatfinder.com/glossary/hypoteka-mortgage/
+- https://slovakia.avokatfinder.com/glossary/kataster-nehnutelnosti/
+- https://slovakia.avokatfinder.com/glossary/kataster-sk/
+- https://slovakia.avokatfinder.com/glossary/katastralny-urad-cadastral-office/
+- https://slovakia.avokatfinder.com/glossary/najomna-zmluva-lease/
+- https://slovakia.avokatfinder.com/glossary/rodne-cislo-sk/
+- https://slovakia.avokatfinder.com/glossary/zivnostensky-list/
+- https://slovakia.avokatfinder.com/glossary/zmluva-o-prevode/
+
+## Site Info
+- Language: English
+- Audience: Expats, foreign nationals, international property buyers and businesses in Slovakia
+- Content: Law firm directory, legal glossary, expat legal guides
+- Last updated: 2026-04-30
+- Sitemap: https://slovakia.avokatfinder.com/sitemap.xml
+
+## Permissions
+User-agent: *
+Allow: /
