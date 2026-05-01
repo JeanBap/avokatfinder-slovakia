@@ -13,6 +13,7 @@
 - https://slovakia.avokatfinder.com/glossary/Vecne-byrta/
 - https://slovakia.avokatfinder.com/glossary/Vecny-ucel-vlastnictva/
 - https://slovakia.avokatfinder.com/glossary/dan-z-prevodu-nehnutelnosti-sk/
+- https://slovakia.avokatfinder.com/glossary/dan-z-pridanej-hodnoty-sk/
 - https://slovakia.avokatfinder.com/glossary/hypoteka-mortgage/
 - https://slovakia.avokatfinder.com/glossary/kataster-nehnutelnosti-sk/
 - https://slovakia.avokatfinder.com/glossary/kataster-nehnutelnosti/
@@ -20,7 +21,11 @@
 - https://slovakia.avokatfinder.com/glossary/katastralny-urad-cadastral-office/
 - https://slovakia.avokatfinder.com/glossary/najomna-zmluva-lease/
 - https://slovakia.avokatfinder.com/glossary/podielove-spoluvlastnictvo-sk/
+- https://slovakia.avokatfinder.com/glossary/rezervacna-zmluva-sk/
 - https://slovakia.avokatfinder.com/glossary/rodne-cislo-sk/
+- https://slovakia.avokatfinder.com/glossary/spolocenstvo-vlastnikov-sk/
+- https://slovakia.avokatfinder.com/glossary/stavebne-povolenie-sk/
+- https://slovakia.avokatfinder.com/glossary/vecne-bremeno-sk/
 - https://slovakia.avokatfinder.com/glossary/zalozne-pravo-sk/
 - https://slovakia.avokatfinder.com/glossary/zivnostensky-list/
 - https://slovakia.avokatfinder.com/glossary/zmluva-o-prevode-sk/
